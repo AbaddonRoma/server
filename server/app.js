@@ -1,7 +1,7 @@
 const http = require("node:http");
 const { readFileSync } = require('fs');
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 const updateCORS = (res) => {
     res.setHeader('Access-Control-Allow-Origin', '*'); /* @dev First, read about security */
@@ -25,4 +25,6 @@ const server = http.createServer((req, res) => {
 
 });
 
-server.listen(port);
+server.listen(port, () => {
+    console.log('Started on port: ', port);
+});
