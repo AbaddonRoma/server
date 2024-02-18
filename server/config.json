@@ -1,0 +1,172 @@
+{
+    "lobby": {
+        "menu": [
+            {
+                "title": "Menu 1",
+                "link": "https://www.google.com"
+            },
+            {
+                "title": "Menu 2",
+                "link": "https://www.google.com"
+            }
+        ],
+        "topBanner": {
+            "title": "Title",
+            "description": "Description",
+            "socialLinks": {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            },
+            "images": [
+                {
+                    "small": "assets\\dst\\images\\s\\lobby\\top_banner\\IMG_0055.JPG",
+                    "medium": "assets\\dst\\images\\m\\lobby\\top_banner\\IMG_0055.JPG",
+                    "large": "assets\\dst\\images\\l\\lobby\\top_banner\\IMG_0055.JPG"
+                },
+                {
+                    "small": "assets\\dst\\images\\s\\lobby\\top_banner\\IMG_0056.JPG",
+                    "medium": "assets\\dst\\images\\m\\lobby\\top_banner\\IMG_0056.JPG",
+                    "large": "assets\\dst\\images\\l\\lobby\\top_banner\\IMG_0056.JPG"
+                },
+                {
+                    "small": "assets\\dst\\images\\s\\lobby\\top_banner\\IMG_0410.PNG",
+                    "medium": "assets\\dst\\images\\m\\lobby\\top_banner\\IMG_0410.PNG",
+                    "large": "assets\\dst\\images\\l\\lobby\\top_banner\\IMG_0410.PNG"
+                },
+                {
+                    "small": "assets\\dst\\images\\s\\lobby\\top_banner\\IMG_0412.PNG",
+                    "medium": "assets\\dst\\images\\m\\lobby\\top_banner\\IMG_0412.PNG",
+                    "large": "assets\\dst\\images\\l\\lobby\\top_banner\\IMG_0412.PNG"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "News title 1",
+                "description": "New Description1 for example with a long text to see how it will be displayed on the screen and how it will be wrapped",
+                "image": {
+                    "small": "assets\\dst\\images\\s\\lobby\\news\\news1.jpg",
+                    "medium": "assets\\dst\\images\\m\\lobby\\news\\news1.jpg",
+                    "large": "assets\\dst\\images\\l\\lobby\\news\\news1.jpg"
+                }
+            },
+            {
+                "title": "News title 2",
+                "description": "New Description1 for example with a long text to see how it will be displayed on the screen and how it will be wrapped",
+                "image": {
+                    "small": "assets\\dst\\images\\s\\lobby\\news\\news2.jpg",
+                    "medium": "assets\\dst\\images\\m\\lobby\\news\\news2.jpg",
+                    "large": "assets\\dst\\images\\l\\lobby\\news\\news2.jpg"
+                }
+            }
+        ],
+        "topDivider": {
+            "title": "Top Divider",
+            "description": "Top Divider Description",
+            "image": {
+                "small": "assets\\dst\\images\\s\\lobby\\divider\\divider_top.png",
+                "medium": "assets\\dst\\images\\m\\lobby\\divider\\divider_top.png",
+                "large": "assets\\dst\\images\\l\\lobby\\divider\\divider_top.png"
+            }
+        },
+        "gallery": [
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_0055.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_0055.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_0055.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_0056.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_0056.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_0056.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_0410.PNG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_0410.PNG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_0410.PNG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_0412.PNG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_0412.PNG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_0412.PNG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_0629.PNG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_0629.PNG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_0629.PNG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1194.PNG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1194.PNG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1194.PNG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1198.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1198.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1198.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1201.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1201.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1201.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1445.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1445.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1445.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1836.JPG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1836.JPG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1836.JPG"
+            },
+            {
+                "small": "assets\\dst\\images\\s\\lobby\\gallery\\IMG_1846.PNG",
+                "medium": "assets\\dst\\images\\m\\lobby\\gallery\\IMG_1846.PNG",
+                "large": "assets\\dst\\images\\l\\lobby\\gallery\\IMG_1846.PNG"
+            }
+        ],
+        "bottomDivider": {
+            "title": "Bottom Divider",
+            "description": "Bottom Divider Description",
+            "image": {
+                "small": "assets\\dst\\images\\s\\lobby\\divider\\divider_bottom.jpg",
+                "medium": "assets\\dst\\images\\m\\lobby\\divider\\divider_bottom.jpg",
+                "large": "assets\\dst\\images\\l\\lobby\\divider\\divider_bottom.jpg"
+            }
+        },
+        "findUs": {
+            "content": {
+                "title": "Find Us",
+                "description": "Find Us Description",
+                "image": {
+                    "small": "assets\\dst\\images\\s\\lobby\\find_us\\map.png",
+                    "medium": "assets\\dst\\images\\m\\lobby\\find_us\\map.png",
+                    "large": "assets\\dst\\images\\l\\lobby\\find_us\\map.png"
+                }
+            },
+            "actionLink": {
+                "title": "Find Us",
+                "link": "https://www.google.com"
+            }
+        },
+        "footer": {
+            "title": "Footer",
+            "description": "Footer Description",
+            "quickLinks": [
+                {
+                    "title": "Quick Link 1",
+                    "link": "https://www.google.com"
+                },
+                {
+                    "title": "Quick Link 2",
+                    "link": "https://www.google.com"
+                }
+            ],
+            "socialLinks": {
+                "facebook": "https://www.facebook.com",
+                "instagram": "https://www.instagram.com"
+            }
+        }
+    }
+}
